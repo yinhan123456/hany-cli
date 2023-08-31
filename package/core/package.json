@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@hany-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "77521887536b3bbeee3706d17a73dc2c96ba00d8"
 }
