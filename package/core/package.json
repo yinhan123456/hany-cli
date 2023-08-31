@@ -1,6 +1,6 @@
 {
   "name": "@hany-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hany-cli-dev/utils": "^1.0.3"
+    "@hany-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "59c62d21741454c15f178e411e5a862a2565feba",
   "publishConfig": {
