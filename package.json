@@ -15,5 +15,8 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.1.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
