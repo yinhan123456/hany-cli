@@ -1,0 +1,19 @@
+{
+  "name": "hany-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "package\\core",
+    "package\\utils"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.5"
+  }
+}
