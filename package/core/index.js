@@ -1,1 +1,1 @@
-export default 'test core1';
+export default 'test core2';
